@@ -8,16 +8,16 @@ This project uses jqdata to forecast the price of Chinese stock.  The methods us
 1. The network models contained in the folder are trained based on CSI300. When the stock code is changed, the model should be deleted and the main.py training should be rerun.
 ## Result
 ### LSTM result
-![LSTM](https://github.com/quanzhou206/image_res/blob/main/LSTM.png)
+![LSTM](https://github.com/quanzhou206/image_res/blob/main/LSTM.png?raw=true)
 ### CNN_LSTM result
-![CNN_LSTM](https://github.com/quanzhou206/image_res/blob/main/CNN_LSTM.png)
+![CNN_LSTM](https://github.com/quanzhou206/image_res/blob/main/CNN_LSTM.png?raw=true)
 ### LSTM_CNN result
-![LSTM_CNN](https://github.com/quanzhou206/image_res/blob/main/LSTM_CNN.png)
+![LSTM_CNN](https://github.com/quanzhou206/image_res/blob/main/LSTM_CNN.png?raw=true)
 ### Adaboost result
-![Adaboost](https://github.com/quanzhou206/image_res/blob/main/Adaboost.png)
+![Adaboost](https://github.com/quanzhou206/image_res/blob/main/Adaboost.png?raw=true)
 ### Random_forest result
-![Random_forest](https://github.com/quanzhou206/image_res/blob/main/RF.png)
+![Random_forest](https://github.com/quanzhou206/image_res/blob/main/RF.png?raw=true)
 ### Ridge integrate result
-![Ridge integrate](https://github.com/quanzhou206/image_res/blob/main/Ridge.png)
+![Ridge integrate](https://github.com/quanzhou206/image_res/blob/main/Ridge.png?raw=true)
 ### Adaboost_LSTM result
-![Adaboost_LSTM](https://github.com/quanzhou206/image_res/blob/main/LSTM_ADA.png)
+![Adaboost_LSTM](https://github.com/quanzhou206/image_res/blob/main/LSTM_ADA.png?raw=true)
