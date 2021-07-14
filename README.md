@@ -6,3 +6,6 @@ This project uses jqdata to forecast the price of Chinese stock.  The methods us
 3. run main.py, the data of CSI300 will be used by default.
 ## Attention
 1. The network models contained in the folder are trained based on CSI300. When the stock code is changed, the model should be deleted and the main.py training should be rerun.
+## Result
+### LSTM result
+
